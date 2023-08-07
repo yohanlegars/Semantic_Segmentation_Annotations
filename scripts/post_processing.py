@@ -8,7 +8,7 @@ from pynput.keyboard import Key
 ###########################################################
 ###########################################################
 ################## Path Initialization ####################
-path = "/home/yohan-sl-intern/Documents/vautlab/RB_CAR/"
+path = "Path/to/sequence"
 sequence = input("Please enter the sequence you want to process; 1, 2, 3, ...: ")
 mask_path = path + "sequence" + sequence + "/sequence" + sequence + "_annotations/SegmentationClass"
 image_path = path + "sequence" + sequence + "/images/"
@@ -439,7 +439,7 @@ while loop:
             elif key3 == ord('s'):
                 mask = clone
                 mask = cv.resize(mask, (img.shape[1], img.shape[0]))
-                saved_path = "/home/yohan-sl-intern/Documents/vautlab/RB_CAR/sequence" + sequence + "/masks/" + mask_list
+                saved_path = "path/to/output/" + sequence + "/masks/" + mask_list
                 cv.imwrite(saved_path, mask) 
                 print("The image " + mask_list + " has been saved in " +  "vautlab/RB_CAR/sequence" + sequence + "/masks/")
 
