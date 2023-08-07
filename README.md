@@ -85,7 +85,7 @@ wait until the model has been succesfully been built. You can see its status on 
 
 If the annotation using cvat lacks accuracy at the boundaries, one can uses `scripts/post_processing.py` to improve the annotations by manually annotate the image based on color gradient.
 
-First you need to set the [path](http://192.168.1.92/ylegars/semantic_seg_annotations/-/blob/master/scripts/post_processing.py#L11) to where your sequence is located inside your computer.
+First you need to set the [path](https://github.com/yohanlegars/Semantic_Segmentation_Annotations/blob/aca908de43a993e2b3cef4f98b025d18df086ee4/scripts/post_processing.py#L11) to where your sequence is located inside your computer.
 
 You can run the script with the next command:
  ```
