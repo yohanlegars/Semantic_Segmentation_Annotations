@@ -1,6 +1,7 @@
 # Using CVAT for semantic segmentation annotations.
-The following installation commands might be outdated. Please follow this [CVAT repo](https://github.com/opencv/cvat) to have the most up to date installation instructions.
-Assuming you are running on a debian-based linux distro OS, preferably UBUNTU >= 18.04.
+The following installation commands might be outdated. Please follow [CVAT repo](https://github.com/opencv/cvat) to have the most up to date installation instructions.
+
+Assuming you are running on a debian-based linux distro OS, preferably UBUNTU >= 18.04:
 ### Install Docker and Docker Compose
 
 ```
