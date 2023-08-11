@@ -127,6 +127,6 @@ If you make a mistake, you can revert the last change by moving the mousewheel b
 If you press `s`, the processed mask will be saved in a `mask` directory. You can press `c` by continuing processing another class on the same image.
 By pressing `l` or `a`, you go to the next image. 
 
+![ZED_SN49479313_1678892764032658000](https://github.com/yohanlegars/semantic_segmentation_annotations/assets/84932144/6568dc62-9207-472c-9278-497de24494d9)
 
-![cvat](https://github.com/yohanlegars/semantic_segmentation_annotations/assets/84932144/f280832c-6b93-49b1-bb2f-fd3abb87975c)
 
