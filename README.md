@@ -127,5 +127,6 @@ If you make a mistake, you can revert the last change by moving the mousewheel b
 If you press `s`, the processed mask will be saved in a `mask` directory. You can press `c` by continuing processing another class on the same image.
 By pressing `l` or `a`, you go to the next image. 
 
-If you type manual instead of a class, the saved processed mask will be display and you can make some change by changing/swapping color. You double click with the middle button on an desired color to be added and you double click again on a color that needs to be replaced as shown in the following gif:
+
+![cvat](https://github.com/yohanlegars/semantic_segmentation_annotations/assets/84932144/f280832c-6b93-49b1-bb2f-fd3abb87975c)
 
