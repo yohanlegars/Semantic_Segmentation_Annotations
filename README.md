@@ -80,7 +80,7 @@ serverless/deploy_cpu.sh serverless/pytorch/facebookresearch/sam/
 ```
 
 wait until the model has been succesfully been built. You can see its status on a web UI by entering `localhost:8070` in Google Chrome.
-Here's an example illustrating the utilization of the Computer Vision Annotation Tool (CVAT) for the purpose of annotating rays of sunlight:
+Here's an example illustrating the utilization of CVAT for the purpose of annotating rays of sunlight:
 
 
 
